@@ -1,0 +1,26 @@
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.exe.config
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.exe
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.pdb
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\FireSharp.dll
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\FireSharp.Serialization.JsonNet.dll
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\RestSharp.dll
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\bin\Debug\RestSharp.xml
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.csprojResolveAssemblyReference.cache
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.Form1.resources
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.Properties.Resources.resources
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.csproj.GenerateResource.Cache
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.exe
+c:\users\soukpaseuth\documents\visual studio 2013\Projects\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.pdb
+D:\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.exe.config
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.exe
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.pdb
+D:\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.exe
+D:\FriebaseApp\FriebaseApp\bin\Debug\FriebaseApp.pdb
+D:\FriebaseApp\FriebaseApp\bin\Debug\Newtonsoft.Json.dll
+D:\FriebaseApp\FriebaseApp\bin\Debug\RestSharp.xml
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.csprojResolveAssemblyReference.cache
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.Form1.resources
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.Properties.Resources.resources
+D:\FriebaseApp\FriebaseApp\obj\Debug\FriebaseApp.csproj.GenerateResource.Cache
